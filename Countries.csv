@@ -1,0 +1,251 @@
+name,alpha3Code,area,region,population,main_currency,main_language
+Afghanistan,AFG,652230.0,Asia,38928341,AFN,Pashto
+Åland Islands,ALA,1580.0,Europe,28875,EUR,Swedish
+Albania,ALB,28748.0,Europe,2837743,ALL,Albanian
+Algeria,DZA,2381741.0,Africa,43851043,DZD,Arabic
+American Samoa,ASM,199.0,Oceania,55197,USD,English
+Andorra,AND,468.0,Europe,77265,EUR,Catalan
+Angola,AGO,1246700.0,Africa,32866268,AOA,Portuguese
+Anguilla,AIA,91.0,Americas,13452,XCD,English
+Antarctica,ATA,14000000.0,Polar,1000,NA,English
+Antigua and Barbuda,ATG,442.0,Americas,97928,XCD,English
+Argentina,ARG,2780400.0,Americas,45376763,ARS,Spanish
+Armenia,ARM,29743.0,Asia,2963234,AMD,Armenian
+Aruba,ABW,180.0,Americas,106766,AWG,Dutch
+Australia,AUS,7692024.0,Oceania,25687041,AUD,English
+Austria,AUT,83871.0,Europe,8917205,EUR,German
+Azerbaijan,AZE,86600.0,Asia,10110116,AZN,Azerbaijani
+Bahamas,BHS,13943.0,Americas,393248,BSD,English
+Bahrain,BHR,765.0,Asia,1701583,BHD,Arabic
+Bangladesh,BGD,147570.0,Asia,164689383,BDT,Bengali
+Barbados,BRB,430.0,Americas,287371,BBD,English
+Belarus,BLR,207600.0,Europe,9398861,BYN,Belarusian
+Belgium,BEL,30528.0,Europe,11555997,EUR,Dutch
+Belize,BLZ,22966.0,Americas,397621,BZD,English
+Benin,BEN,112622.0,Africa,12123198,XOF,French
+Bermuda,BMU,54.0,Americas,63903,BMD,English
+Bhutan,BTN,38394.0,Asia,771612,BTN,Dzongkha
+Bolivia (Plurinational State of),BOL,1098581.0,Americas,11673029,BOB,Spanish
+"Bonaire, Sint Eustatius and Saba",BES,294.0,Americas,17408,USD,Dutch
+Bosnia and Herzegovina,BIH,51209.0,Europe,3280815,BAM,Bosnian
+Botswana,BWA,582000.0,Africa,2351625,BWP,English
+Bouvet Island,BVT,49.0,Antarctic Ocean,0,NOK,Norwegian
+Brazil,BRA,8515767.0,Americas,212559409,BRL,Portuguese
+British Indian Ocean Territory,IOT,60.0,Africa,3000,USD,English
+United States Minor Outlying Islands,UMI,NA,Americas,300,GBP,English
+Virgin Islands (British),VGB,151.0,Americas,30237,USD,English
+Virgin Islands (U.S.),VIR,346.36,Americas,106290,USD,English
+Brunei Darussalam,BRN,5765.0,Asia,437483,BND,Malay
+Bulgaria,BGR,110879.0,Europe,6927288,BGN,Bulgarian
+Burkina Faso,BFA,272967.0,Africa,20903278,XOF,French
+Burundi,BDI,27834.0,Africa,11890781,BIF,French
+Cambodia,KHM,181035.0,Asia,16718971,KHR,Khmer
+Cameroon,CMR,475442.0,Africa,26545864,XAF,English
+Canada,CAN,9984670.0,Americas,38005238,CAD,English
+Cabo Verde,CPV,4033.0,Africa,555988,CVE,Portuguese
+Cayman Islands,CYM,264.0,Americas,65720,KYD,English
+Central African Republic,CAF,622984.0,Africa,4829764,XAF,French
+Chad,TCD,1284000.0,Africa,16425859,XAF,French
+Chile,CHL,756102.0,Americas,19116209,CLP,Spanish
+China,CHN,9640011.0,Asia,1402112000,CNY,Chinese
+Christmas Island,CXR,135.0,Oceania,2072,AUD,English
+Cocos (Keeling) Islands,CCK,14.0,Oceania,550,AUD,English
+Colombia,COL,1141748.0,Americas,50882884,COP,Spanish
+Comoros,COM,1862.0,Africa,869595,KMF,Arabic
+Congo,COG,342000.0,Africa,5518092,XAF,French
+Congo (Democratic Republic of the),COD,2344858.0,Africa,89561404,CDF,French
+Cook Islands,COK,236.0,Oceania,18100,NZD,English
+Costa Rica,CRI,51100.0,Americas,5094114,CRC,Spanish
+Croatia,HRV,56594.0,Europe,4047200,HRK,Croatian
+Cuba,CUB,109884.0,Americas,11326616,CUC,Spanish
+Curaçao,CUW,444.0,Americas,155014,ANG,Dutch
+Cyprus,CYP,9251.0,Europe,1207361,EUR,Greek (modern)
+Czech Republic,CZE,78865.0,Europe,10698896,CZK,Czech
+Denmark,DNK,43094.0,Europe,5831404,DKK,Danish
+Djibouti,DJI,23200.0,Africa,988002,DJF,French
+Dominica,DMA,751.0,Americas,71991,XCD,English
+Dominican Republic,DOM,48671.0,Americas,10847904,DOP,Spanish
+Ecuador,ECU,276841.0,Americas,17643060,USD,Spanish
+Egypt,EGY,1002450.0,Africa,102334403,EGP,Arabic
+El Salvador,SLV,21041.0,Americas,6486201,USD,Spanish
+Equatorial Guinea,GNQ,28051.0,Africa,1402985,XAF,Spanish
+Eritrea,ERI,117600.0,Africa,5352000,ERN,Tigrinya
+Estonia,EST,45227.0,Europe,1331057,EUR,Estonian
+Ethiopia,ETH,1104300.0,Africa,114963583,ETB,Amharic
+Falkland Islands (Malvinas),FLK,12173.0,Americas,2563,FKP,English
+Faroe Islands,FRO,1393.0,Europe,48865,DKK,Faroese
+Fiji,FJI,18272.0,Oceania,896444,FJD,English
+Finland,FIN,338424.0,Europe,5530719,EUR,Finnish
+France,FRA,640679.0,Europe,67391582,EUR,French
+French Guiana,GUF,NA,Americas,254541,EUR,French
+French Polynesia,PYF,4167.0,Oceania,280904,XPF,French
+French Southern Territories,ATF,7747.0,Africa,140,EUR,French
+Gabon,GAB,267668.0,Africa,2225728,XAF,French
+Gambia,GMB,11295.0,Africa,2416664,GMD,English
+Georgia,GEO,69700.0,Asia,3714000,GEL,Georgian
+Germany,DEU,357114.0,Europe,83240525,EUR,German
+Ghana,GHA,238533.0,Africa,31072945,GHS,English
+Gibraltar,GIB,6.0,Europe,33691,GIP,English
+Greece,GRC,131990.0,Europe,10715549,EUR,Greek (modern)
+Greenland,GRL,2166086.0,Americas,56367,DKK,Kalaallisut
+Grenada,GRD,344.0,Americas,112519,XCD,English
+Guadeloupe,GLP,NA,Americas,400132,EUR,French
+Guam,GUM,549.0,Oceania,168783,USD,English
+Guatemala,GTM,108889.0,Americas,16858333,GTQ,Spanish
+Guernsey,GGY,78.0,Europe,62999,GBP,English
+Guinea,GIN,245857.0,Africa,13132792,GNF,French
+Guinea-Bissau,GNB,36125.0,Africa,1967998,XOF,Portuguese
+Guyana,GUY,214969.0,Americas,786559,GYD,English
+Haiti,HTI,27750.0,Americas,11402533,HTG,French
+Heard Island and McDonald Islands,HMD,412.0,Antarctic,0,AUD,English
+Vatican City,VAT,0.44,Europe,451,EUR,Latin
+Honduras,HND,112492.0,Americas,9904608,HNL,Spanish
+Hungary,HUN,93028.0,Europe,9749763,HUF,Hungarian
+Hong Kong,HKG,1104.0,Asia,7481800,HKD,English
+Iceland,ISL,103000.0,Europe,366425,ISK,Icelandic
+India,IND,3287590.0,Asia,1380004385,INR,Hindi
+Indonesia,IDN,1904569.0,Asia,273523621,IDR,Indonesian
+Ivory Coast,CIV,322463.0,Africa,26378275,XOF,French
+Iran (Islamic Republic of),IRN,1648195.0,Asia,83992953,IRR,Persian (Farsi)
+Iraq,IRQ,438317.0,Asia,40222503,IQD,Arabic
+Ireland,IRL,70273.0,Europe,4994724,EUR,Irish
+Isle of Man,IMN,572.0,Europe,85032,GBP,English
+Israel,ISR,20770.0,Asia,9216900,ILS,Hebrew (modern)
+Italy,ITA,301336.0,Europe,59554023,EUR,Italian
+Jamaica,JAM,10991.0,Americas,2961161,JMD,English
+Japan,JPN,377930.0,Asia,125836021,JPY,Japanese
+Jersey,JEY,116.0,Europe,100800,GBP,English
+Jordan,JOR,89342.0,Asia,10203140,JOD,Arabic
+Kazakhstan,KAZ,2724900.0,Asia,18754440,KZT,Kazakh
+Kenya,KEN,580367.0,Africa,53771300,KES,English
+Kiribati,KIR,811.0,Oceania,119446,AUD,English
+Kuwait,KWT,17818.0,Asia,4270563,KWD,Arabic
+Kyrgyzstan,KGZ,199951.0,Asia,6591600,KGS,Kyrgyz
+Lao People's Democratic Republic,LAO,236800.0,Asia,7275556,LAK,Lao
+Latvia,LVA,64559.0,Europe,1901548,EUR,Latvian
+Lebanon,LBN,10452.0,Asia,6825442,LBP,Arabic
+Lesotho,LSO,30355.0,Africa,2142252,LSL,English
+Liberia,LBR,111369.0,Africa,5057677,LRD,English
+Libya,LBY,1759540.0,Africa,6871287,LYD,Arabic
+Liechtenstein,LIE,160.0,Europe,38137,CHF,German
+Lithuania,LTU,65300.0,Europe,2794700,EUR,Lithuanian
+Luxembourg,LUX,2586.0,Europe,632275,EUR,French
+Macao,MAC,30.0,Asia,649342,MOP,Chinese
+North Macedonia,MKD,25713.0,Europe,2083380,MKD,Macedonian
+Madagascar,MDG,587041.0,Africa,27691019,MGA,French
+Malawi,MWI,118484.0,Africa,19129955,MWK,English
+Malaysia,MYS,330803.0,Asia,32365998,MYR,Malaysian
+Maldives,MDV,300.0,Asia,540542,MVR,Divehi
+Mali,MLI,1240192.0,Africa,20250834,XOF,French
+Malta,MLT,316.0,Europe,525285,EUR,Maltese
+Marshall Islands,MHL,181.0,Oceania,59194,USD,English
+Martinique,MTQ,NA,Americas,378243,EUR,French
+Mauritania,MRT,1030700.0,Africa,4649660,MRO,Arabic
+Mauritius,MUS,2040.0,Africa,1265740,MUR,English
+Mayotte,MYT,NA,Africa,226915,EUR,French
+Mexico,MEX,1964375.0,Americas,128932753,MXN,Spanish
+Micronesia (Federated States of),FSM,702.0,Oceania,115021,USD,English
+Moldova (Republic of),MDA,33846.0,Europe,2617820,MDL,Romanian
+Monaco,MCO,2.02,Europe,39244,EUR,French
+Mongolia,MNG,1564110.0,Asia,3278292,MNT,Mongolian
+Montenegro,MNE,13812.0,Europe,621718,EUR,Serbian
+Montserrat,MSR,102.0,Americas,4922,XCD,English
+Morocco,MAR,446550.0,Africa,36910558,MAD,Arabic
+Mozambique,MOZ,801590.0,Africa,31255435,MZN,Portuguese
+Myanmar,MMR,676578.0,Asia,54409794,MMK,Burmese
+Namibia,NAM,825615.0,Africa,2540916,NAD,English
+Nauru,NRU,21.0,Oceania,10834,AUD,English
+Nepal,NPL,147181.0,Asia,29136808,NPR,Nepali
+Netherlands,NLD,41850.0,Europe,17441139,EUR,Dutch
+New Caledonia,NCL,18575.0,Oceania,271960,XPF,French
+New Zealand,NZL,270467.0,Oceania,5084300,NZD,English
+Nicaragua,NIC,130373.0,Americas,6624554,NIO,Spanish
+Niger,NER,1267000.0,Africa,24206636,XOF,French
+Nigeria,NGA,923768.0,Africa,206139587,NGN,English
+Niue,NIU,260.0,Oceania,1470,NZD,English
+Norfolk Island,NFK,36.0,Oceania,2302,AUD,English
+Korea (Democratic People's Republic of),PRK,120538.0,Asia,25778815,KPW,Korean
+Northern Mariana Islands,MNP,464.0,Oceania,57557,USD,English
+Norway,NOR,323802.0,Europe,5379475,NOK,Norwegian
+Oman,OMN,309500.0,Asia,5106622,OMR,Arabic
+Pakistan,PAK,881912.0,Asia,220892331,PKR,Urdu
+Palau,PLW,459.0,Oceania,18092,USD,English
+"Palestine, State of",PSE,NA,Asia,4803269,EGP,Arabic
+Panama,PAN,75417.0,Americas,4314768,PAB,Spanish
+Papua New Guinea,PNG,462840.0,Oceania,8947027,PGK,English
+Paraguay,PRY,406752.0,Americas,7132530,PYG,Spanish
+Peru,PER,1285216.0,Americas,32971846,PEN,Spanish
+Philippines,PHL,342353.0,Asia,109581085,PHP,English
+Pitcairn,PCN,47.0,Oceania,56,NZD,English
+Poland,POL,312679.0,Europe,37950802,PLN,Polish
+Portugal,PRT,92090.0,Europe,10305564,EUR,Portuguese
+Puerto Rico,PRI,8870.0,Americas,3194034,USD,Spanish
+Qatar,QAT,11586.0,Asia,2881060,QAR,Arabic
+Republic of Kosovo,UNK,10908.0,Europe,1775378,EUR,Albanian
+Réunion,REU,NA,Africa,840974,EUR,French
+Romania,ROU,238391.0,Europe,19286123,RON,Romanian
+Russian Federation,RUS,17124442.0,Europe,144104080,RUB,Russian
+Rwanda,RWA,26338.0,Africa,12952209,RWF,Kinyarwanda
+Saint Barthélemy,BLM,21.0,Americas,9417,EUR,French
+"Saint Helena, Ascension and Tristan da Cunha",SHN,NA,Africa,4255,SHP,English
+Saint Kitts and Nevis,KNA,261.0,Americas,53192,XCD,English
+Saint Lucia,LCA,616.0,Americas,183629,XCD,English
+Saint Martin (French part),MAF,53.0,Americas,38659,EUR,English
+Saint Pierre and Miquelon,SPM,242.0,Americas,6069,EUR,French
+Saint Vincent and the Grenadines,VCT,389.0,Americas,110947,XCD,English
+Samoa,WSM,2842.0,Oceania,198410,WST,Samoan
+San Marino,SMR,61.0,Europe,33938,EUR,Italian
+Sao Tome and Principe,STP,964.0,Africa,219161,STD,Portuguese
+Saudi Arabia,SAU,2149690.0,Asia,34813867,SAR,Arabic
+Senegal,SEN,196722.0,Africa,16743930,XOF,French
+Serbia,SRB,88361.0,Europe,6908224,RSD,Serbian
+Seychelles,SYC,452.0,Africa,98462,SCR,French
+Sierra Leone,SLE,71740.0,Africa,7976985,SLL,English
+Singapore,SGP,710.0,Asia,5685807,BND,English
+Sint Maarten (Dutch part),SXM,34.0,Americas,40812,ANG,Dutch
+Slovakia,SVK,49037.0,Europe,5458827,EUR,Slovak
+Slovenia,SVN,20273.0,Europe,2100126,EUR,Slovene
+Solomon Islands,SLB,28896.0,Oceania,686878,SBD,English
+Somalia,SOM,637657.0,Africa,15893219,SOS,Somali
+South Africa,ZAF,1221037.0,Africa,59308690,ZAR,Afrikaans
+South Georgia and the South Sandwich Islands,SGS,NA,Americas,30,FKP,English
+Korea (Republic of),KOR,100210.0,Asia,51780579,KRW,Korean
+Spain,ESP,505992.0,Europe,47351567,EUR,Spanish
+Sri Lanka,LKA,65610.0,Asia,21919000,LKR,Sinhalese
+Sudan,SDN,1886068.0,Africa,43849269,SDG,Arabic
+South Sudan,SSD,619745.0,Africa,11193729,SSP,English
+Suriname,SUR,163820.0,Americas,586634,SRD,Dutch
+Svalbard and Jan Mayen,SJM,NA,Europe,2562,NOK,Norwegian
+Swaziland,SWZ,17364.0,Africa,1160164,SZL,English
+Sweden,SWE,450295.0,Europe,10353442,SEK,Swedish
+Switzerland,CHE,41284.0,Europe,8636896,CHF,German
+Syrian Arab Republic,SYR,185180.0,Asia,17500657,SYP,Arabic
+Taiwan,TWN,36193.0,Asia,23503349,TWD,Chinese
+Tajikistan,TJK,143100.0,Asia,9537642,TJS,Tajik
+"Tanzania, United Republic of",TZA,945087.0,Africa,59734213,TZS,Swahili
+Thailand,THA,513120.0,Asia,69799978,THB,Thai
+Timor-Leste,TLS,14874.0,Asia,1318442,THB,Portuguese
+Togo,TGO,56785.0,Africa,8278737,XOF,French
+Tokelau,TKL,12.0,Oceania,1411,NZD,English
+Tonga,TON,747.0,Oceania,105697,TOP,English
+Trinidad and Tobago,TTO,5130.0,Americas,1399491,TTD,English
+Tunisia,TUN,163610.0,Africa,11818618,TND,Arabic
+Turkey,TUR,783562.0,Asia,84339067,TRY,Turkish
+Turkmenistan,TKM,488100.0,Asia,6031187,TMT,Turkmen
+Turks and Caicos Islands,TCA,948.0,Americas,38718,USD,English
+Tuvalu,TUV,26.0,Oceania,11792,AUD,English
+Uganda,UGA,241550.0,Africa,45741000,UGX,English
+Ukraine,UKR,603700.0,Europe,44134693,UAH,Ukrainian
+United Arab Emirates,ARE,83600.0,Asia,9890400,AED,Arabic
+United Kingdom of Great Britain and Northern Ireland,GBR,242900.0,Europe,67215293,GBP,English
+United States of America,USA,9629091.0,Americas,329484123,USD,English
+Uruguay,URY,181034.0,Americas,3473727,UYU,Spanish
+Uzbekistan,UZB,447400.0,Asia,34232050,UZS,Uzbek
+Vanuatu,VUT,12189.0,Oceania,307150,VUV,Bislama
+Venezuela (Bolivarian Republic of),VEN,916445.0,Americas,28435943,VEF,Spanish
+Vietnam,VNM,331212.0,Asia,97338583,VND,Vietnamese
+Wallis and Futuna,WLF,142.0,Oceania,11750,XPF,French
+Western Sahara,ESH,266000.0,Africa,510713,MAD,Spanish
+Yemen,YEM,527968.0,Asia,29825968,YER,Arabic
+Zambia,ZMB,752618.0,Africa,18383956,ZMW,English
+Zimbabwe,ZWE,390757.0,Africa,14862927,ZMW,English
